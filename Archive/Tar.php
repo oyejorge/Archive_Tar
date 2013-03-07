@@ -1967,4 +1967,3 @@ class Archive_Tar
     // }}}
 
 }
-?>
